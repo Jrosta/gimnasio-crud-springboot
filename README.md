@@ -1,7 +1,7 @@
 # Sistema de Gimnasio 
 
 CRUD desarrollado con:
-- Java 17
+- Java 22
 - Spring Boot
 - MySQL
 - JPA / Hibernate
